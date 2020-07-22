@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include dicksonui/index.html
+include dicksonui/DicksonUI.js
